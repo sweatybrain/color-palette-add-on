@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "color pallettes",
+    "version": "1.0.0",
+    "description": "praticando apis com color pallettes",
+    "action": {
+        "default_icon": "icon.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+
+}
